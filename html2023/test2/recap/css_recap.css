@@ -1,0 +1,133 @@
+/* CSS is the language we use to style an HTML document.
+CSS descries how HTML elemeents should be displayed. */
+
+/* we use # to call html elem with id 
+and we use . to call html elem with class*/ 
+/*
+what is css?
+
+CSS stands for cascading style sheets 
+
+css descries how html elements are to be 
+displayed an on screen, paper, or in other media 
+ 
+CSS saves a lot of work. it can control the layour 
+of multiple web pages all at once 
+external stylesheets are stored in CSS files */
+
+
+h1{
+    color: blanchedalmond;
+}
+h2{
+    color: red;
+}
+
+h3{
+    color: brown;
+}
+
+h4{
+    color: blueviolet;
+} 
+
+h5{
+    color: aqua;
+}
+
+h6{
+    color: green;
+}
+
+/* ul,ol{ */
+    /* background-color: aqua; */
+    /* width: 5%; */
+/* } */
+
+#search{
+    height:20px;
+    border-radius: 5%;
+    background-color: green;
+} 
+
+#email{
+    height: 20px;
+    border-radius: 5%;
+
+}
+
+#text{
+    height: 20px;
+    border-radius: 5%;
+
+}
+
+#password{
+    height: 20px;
+    border-radius: 5%;
+}
+
+#radio{
+    height: 20px;
+    border-radius: 5%;
+}
+
+#range{
+    height: 20xp;
+    border-radius: 5%;
+}
+
+#color{
+    height: 20px;
+    border-radius: 5%;
+}
+
+#checkbox{
+    height: 20px;
+    border-radius: 5%;
+}
+
+#date{
+    height: 20px;
+    border-radius: 5%;
+}
+
+#file{
+    height: 20px;
+    border-radius: 5%;
+}
+
+.nav{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    height: 50px;
+    font-size: 30px;
+}
+
+#Home{
+    background-color: greenyellow;
+    cursor: pointer;
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#about{
+    margin-left: 73%;
+}
+
+.nav :hover a{
+   background-color: black;
+}
+
+#new{
+ margin-left: 10px;
+}
+ 
+

@@ -1,0 +1,21 @@
+.xd{
+    display: flex;
+    flex-direction: row;
+    border-style: dashed;
+    /* width: 50%;
+    height: 400px; */
+} 
+
+#so{
+    color: grey;
+    margin-top: 35%;
+    margin-right: 16%;
+}
+
+/* .xl{
+    margin-top: 20%;
+} */
+
+/* #lol{
+    
+} */

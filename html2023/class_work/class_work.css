@@ -1,0 +1,27 @@
+.task{
+    background-color: rgb(29, 33, 37);
+    display: flex;
+    height: 35px;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.task a{
+    color: white;
+    text-decoration: none;
+}
+
+.task li{
+    margin-left: 10px;
+}
+
+
+.it{
+    margin-left: 900px;
+}
+
+.task li :hover{
+    background-color: black;
+}

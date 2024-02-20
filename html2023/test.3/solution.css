@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+    display: flex;
+}
+
+.testfake1{
+    background-color: white;
+    width:  250px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+#btn{
+    background-color: green;
+    border:none ;
+    padding: 8px;
+    border-radius: 20px;
+    width: 150px;
+    margin-left: 30px;
+}
+
+#free_p{
+    opacity: 50%;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+.lol{
+    opacity: 60%;
+
+}
+
+.testfake2{
+    background-color: white;
+    width: 250px;
+    height: 500px;
+    border-radius: 10px;
+   margin-left: 200px;
+   margin-top: 80px;
+}
+
+button{
+    background-color: rgb(52, 52, 219);
+    border-radius: 20px;
+    width: 150px;
+    margin-left: 30px;
+    border:none;
+    padding: 8px;
+}
+
+.testfake3{
+    background-color: white;
+    margin-left: 200px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+#plus{
+    opacity: 50%;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+#pro{
+    opacity: 50%;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+
+
+.testfake3 p{
+    margin-left: 15px;
+}
+
+.testfake2 p{
+    margin-left: 15px;
+}
+
+.testfake1 p{
+    margin-left: 15px;
+}
+
+#month1{
+    margin-left: 40px;
+}
+
+#month2{
+    margin-left: 40px;
+}
+
+#month3{
+    margin-left: 40px;
+}
+
+#month4{
+    opacity: 50%;
+}
+
+#btn:hover{
+    background-color: rgb(10, 192, 10);
+}

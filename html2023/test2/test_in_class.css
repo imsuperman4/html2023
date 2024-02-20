@@ -1,0 +1,33 @@
+.navbar{
+    background-color: green;
+    display: flex;
+    height: 40px;
+}
+
+h3{
+    color: white;
+}
+
+/* #log_in{
+    margin-bottom: 6px;
+}  */
+
+
+input{
+    margin-left: 75%;
+    height: 35px;
+    margin-top: 2px;
+    border-radius: 10px;
+}
+
+.my_list{
+    border-style: dashed; 
+    width: 300px ;
+    height: 430px; 
+    margin-left: 40%;
+    margin-top: 10%;
+} 
+
+#sign_up{
+    margin-left:10px ;
+}

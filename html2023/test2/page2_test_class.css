@@ -1,0 +1,38 @@
+.form{ 
+    display: flex;
+    background-color: greenyellow; 
+    margin-left: 30%;
+    width: 500px; height: 450px; 
+    margin-top: 10%;
+    border: solid rgba(0, 128, 0, 0) 2px; 
+    flex-direction: column; 
+    padding: 1%;
+}
+
+h1{
+    color: white; 
+    margin-left: 35%;
+}  
+
+.input_txt{
+   height: 30px; 
+} 
+
+#msg{
+    opacity: 90%;
+} 
+
+
+#xd{
+    margin-top: 16%;
+    width:150px; 
+    margin-left:35%;  
+    height: 40px;
+    color: white;
+    background-color: red;
+} 
+
+#xd:hover{
+    background-color: black; 
+    cursor: pointer; 
+}

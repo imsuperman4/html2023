@@ -1,0 +1,29 @@
+.test1{
+    display: flex; 
+    margin-left: 40%;   
+    margin-top:10%;
+    border-style: dashed; 
+    width: 300px;
+    flex-direction: column; 
+    height: 430px; 
+}
+
+
+
+  
+
+#oi{
+    color: white; 
+    margin-top: 10px;
+} 
+
+.im{ 
+background-color: green;
+height:50px;
+} 
+
+#w{
+  margin-left:80%;
+  border-radius: 10px;
+  /* margin-: px; */
+}

@@ -1,0 +1,85 @@
+Flexbox is a layout model in CSS (Cascading style sheets) desigened to prodive an efficient way to distribute 
+space and align items within in a container, even when thier size is unkown or dynamic. it is particularly
+useful for creating complex layouts and aligning items in more predictable way compared to traditional models.
+
+flex container: or div 
+
+To use flexbox, you need to designate a countainer as a flex container.you can do
+this by setting the containers display property to flex or inline-flex.
+
+.flex-counter {
+    display: flex;
+} 
+
+flex items: 
+ 
+ elemetns 
+ within the 
+ flex container 
+ are called 
+ flex items.
+ css 
+
+ flex-item{
+    /* Styles 
+    forthe flex 
+    items/*
+ } 
+
+ 
+ flexbox 
+ operates along 
+ a main axis and a cross 
+ axis. the main 
+ axis is feined by 
+ the flex-direction 
+ property, 
+ which can be 
+ set to row 
+(left-to-right) 
+, row reverse 
+(right-to-left)
+, column
+(top-to-bottom) 
+,or 
+column-reverse 
+(bottom-to-top) 
+
+.
+css 
+
+
+.flex-container
+{
+flex-direction
+n: row; /* 
+or column, 
+row-reverse, 
+column-revers 
+e */ 
+} 
+
+justify
+contet:
+
+determines how items are distributed along 
+the main axis of the 
+flex container. 
+
+.
+flex-container {
+nt:
+flex-start; / 
+* or 
+flex-end, 
+center, 
+space-between 
+
+,
+space-around, 
+
+space-evenly 
+*/ 
+}
+
+

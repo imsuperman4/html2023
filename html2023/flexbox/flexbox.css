@@ -1,0 +1,49 @@
+#mydiv{
+    background-color: black; 
+    height: 250px;  width: 250px;
+    border-radius: 100%; 
+    animation-name: pikecolor;
+  animation-duration: 2s; 
+} 
+@keyframes pikecolor{
+ from {background-color:red ;} 
+ to {background-color:black;} 
+}
+
+
+
+#obama{
+    background-color: black; 
+    height: 250px; width: 250px;
+    border-radius: 100%; 
+    animation-name: obama; 
+    animation-duration:2s; 
+    animation-delay: 3s;
+} 
+@keyframes obama{
+    from{background-color: black;} 
+    to{background-color:green ;} 
+}
+
+
+#s{
+ background-color: black; 
+ height: 250px; width: 250px; 
+ border-radius: 100%;
+ animation-name: s; 
+ animation-duration: 2s;
+ animation-delay: 5s;
+} 
+
+@keyframes s{
+    from{background-color:black ;} 
+    to{background-color: yellow;}
+} 
+
+.trafficlight{
+    display: flex;
+    flex-direction: column; 
+    margin-left: 45%; 
+    border-style: dashed; 
+    width: 250px; 
+}
